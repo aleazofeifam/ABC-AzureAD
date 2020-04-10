@@ -2,11 +2,10 @@
     <v-container class="pa-0">
         <v-layout wrap align-center justify-center row fill-height >
            <v-flex xs12 md3 lg3 class="pa-2">
-               <p class="google-font" style="font-size:180%">What is here for me?</p>
-               <p class="google-font" style="font-size:110%">TODO Google Developer Groups (GDGs) are for developers who are interested in Google's developer technology.</p>
+               <p class="google-font" style="font-size:180%">What we do</p>
+               <p class="google-font" style="font-size:110%">We create content related to AAD that is easy to follow, sharing best practices and troubleshooting guides.</p>
 
-               <p class="google-font" style="font-size:110%">About different AAD Products</p>
-
+                <br>
                 <span v-for="(item,i) in whatWeDoData" :key="i">
                     <v-tooltip bottom>
                         <template v-slot:activator="{ on }" >
@@ -20,8 +19,8 @@
                 </span>
                 
                 <br><br>
-
-                <v-btn :href="chapterDetails.GDGProgramWebsite" outline target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" flat  class="ml-0 google-font hidden-md-and-down" dark>Learn More</v-btn>
+                
+               <router-link to="/about" class="google-font" style="text-decoration:none;color:Navy;font-size:180%">Check every topic </router-link>
 
             </v-flex> 
             <v-flex xs12 md9 lg9 class="">

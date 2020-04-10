@@ -9,19 +9,19 @@
         "link": "https://developers.google.com/actions/"
     },
     {
-        "TechName": "Azure AD Domain Services",
-        "image": "AADDS.svg",
-        "link": "https://www.android.com/"
-    },
-    {
-        "TechName": "Group Management",
-        "image": "GroupManagement.svg",
-        "link": "https://developers.google.com/actions/"
-    },
-
-    {
         "TechName": "Identity Governance",
         "image": "IdGovernance.svg",
         "link": "https://www.tensorflow.org/"
+    },
+    {
+        "TechName": "Azure AD Domain Services",
+        "image": "AADDomainServices.svg",
+        "link": "https://www.tensorflow.org/"
+    },
+    {
+        "TechName": "Azure AD B2C",
+        "image": "B2C.svg",
+        "link": "https://www.tensorflow.org/"
     }
+
 ]

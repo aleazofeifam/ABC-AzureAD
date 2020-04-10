@@ -1,12 +1,13 @@
 {
     "ChapterName": "ABC AzureAD",
-    "ChapterShortDescription": "Fix this shor desc. TODO",
+    "ChapterShortDescription": "The purpose of this website is to empower everyone to do more with Azure AD, our commitment is to help you help yourself by learning new information and how to apply it to your business.",
     "ChapterLongDec": "Fix this long desc. TODO",
     "ChapterHashTags": [
-        "Azure AD",
-        "Provisioning",
         "Azure Active Directory",
-        "Identity"
+        "Identity Management",
+        "Access Management",
+        "Provisioning"
+
     ],
     "socialLinks": [{
             "name": "Github",

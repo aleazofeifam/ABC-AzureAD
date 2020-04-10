@@ -3,8 +3,8 @@
         <v-layout wrap align-center justify-center row fill-height >
            <v-flex xs12 sm5 md3 lg3 xl3 class="text-xs-center pa-3">
                 <v-img
-                    :src="require('@/assets/img/gdg.jpg')"
-                    :lazy-src="require('@/assets/img/gdg.jpg')"
+                    :src="require('@/assets/img/logo.png')"
+                    :lazy-src="require('@/assets/img/logo.png')"
                     width="100%">
                     <v-layout
                         slot="placeholder"
@@ -29,11 +29,9 @@
                     </span>
                 </p>
 
-                <v-btn :href="chapterDetails.ChapterMeetupLink" target="_blank" class="ma-0 google-font elevation-1" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Become a Member</v-btn>
 
                 &nbsp;
 
-                <v-btn :href="chapterDetails.GDGProgramWebsite" target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" outline  class="ml-0" dark>Learn More</v-btn>
 
             </v-flex>
         </v-layout>
