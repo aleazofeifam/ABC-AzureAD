@@ -1,7 +1,7 @@
 {
     "ChapterName": "ABC AzureAD",
-    "ChapterShortDescription": "The purpose of this website is to empower everyone to do more with Azure AD, our commitment is to help you help yourself by learning new information and how to apply it to your business.",
-    "ChapterLongDec": "Fix this long desc. TODO",
+    "ChapterShortDescription": "The purpose of this website is to show you how you can take advantage of Azure AD, our commitment is to help you help yourself by learning new information and teach you how to apply it to your business.",
+    "ChapterLongDec": "The purpose of this website is to show you how you can take advantage of Azure AD, our commitment is to help you help yourself by learning new information and teach you how to apply it to your business.",
     "ChapterHashTags": [
         "Azure Active Directory",
         "Identity Management",

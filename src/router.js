@@ -26,20 +26,20 @@ export default new Router({
             component: Home
         },
         {
-            path: '/about',
-            name: 'about',
+            path: '/About',
+            name: 'About',
             component: () =>
                 import ('./views/About.vue')
         },
         {
-            path: '/team',
-            name: 'team',
+            path: '/Troubleshoot',
+            name: 'Troubleshoot',
             component: () =>
                 import ('./views/Team.vue')
         },
         {
-            path: '/events',
-            name: 'events',
+            path: '/Topics',
+            name: 'Topics',
             component: () =>
                 import ('./views/Events.vue')
         },
