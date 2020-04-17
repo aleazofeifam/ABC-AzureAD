@@ -22,6 +22,22 @@
         "TechName": "Azure AD B2C",
         "image": "B2C.svg",
         "link": "https://www.tensorflow.org/"
+    },
+    {
+        "TechName": "Connect Health",
+        "image": "ConnectHealth.svg",
+        "link": "https://www.tensorflow.org/"
+    },
+    {
+        "TechName": "Key Vault",
+        "image": "KeyVault.svg",
+        "link": "https://www.tensorflow.org/"
+    },
+    {
+        "TechName": "Privilege Identity Management",
+        "image": "PIM.svg",
+        "link": "https://www.tensorflow.org/"
     }
+
 
 ]
