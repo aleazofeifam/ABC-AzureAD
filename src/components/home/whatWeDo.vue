@@ -20,7 +20,7 @@
                 
                 <br><br>
                 
-               <router-link to="/about" class="google-font" style="text-decoration:none;color:Navy;font-size:180%">Check every topic </router-link>
+               <router-link to="/Topics" class="google-font" style="text-decoration:none;color:Navy;font-size:180%">Check every topic </router-link>
 
             </v-flex> 
             <v-flex xs12 md9 lg9 class="">
@@ -29,7 +29,7 @@
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <i large style="font-size:300%" class="fas fa-terminal"></i>
                         <p> </p>
-                        <p class="google-font" style="font-size:130%">AZ CLI</p>
+                        <p class="google-font" style="font-size:130%">Azure CLI</p>
                         <p class="google-font" style="font-size:110%">Learn how to use it to interact with your resources directly from your command line</p>
                     </v-flex>
 
