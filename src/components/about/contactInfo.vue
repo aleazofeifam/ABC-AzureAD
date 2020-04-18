@@ -20,8 +20,8 @@
            
             <v-flex xs12 md4 lg4 class="pa-2 hidden-sm-and-down">
                 <v-img
-                    :src="require('@/assets/img/svg/bg.svg')"
-                    :lazy-src="require('@/assets/img/svg/bg.svg')"
+                    :src="require('@/assets/img/svg/ManagementGroups.svg')"
+                    :lazy-src="require('@/assets/img/svg/ManagementGroups.svg')"
                     width="70%"
                     style="float:right"
                     >
