@@ -41,7 +41,7 @@ export default new Router({
             path: '/Topics',
             name: 'Topics',
             component: () =>
-                import ('./views/Events.vue')
+                import ('./views/Topics.vue')
         },
         {
             path: '/contact',
