@@ -7,6 +7,8 @@
       <v-layout wrap justify-center row>
         <v-flex xs12 md10 lg10>
           <v-layout wrap align-start justify-start row class="my-2">
+
+
             <v-flex xs12 md3 sm4 lg3 class="py-2">
               <p class="google-font" style="font-size:130%">
                 Contact:
@@ -21,21 +23,13 @@
               </p>
             </v-flex>
 
-            <v-flex xs12 md3 sm4 lg3 class="py-2">
-              <p class="google-font" style="font-size:130%">
-                Resources:
-                <span v-for="(item,i) in ChapterDetails.ReferenceLinks" :key="i">
-                  <v-tooltip top>
-                    <v-btn flat icon :href="item.link" target="_blank" slot="activator">
-                      <v-icon>{{item.icon}}</v-icon>
-                    </v-btn>
-                    <span>{{item.name}}</span>
-                  </v-tooltip>
-                </span>
-              </p>
-            </v-flex>
 
-            <v-flex xs12 md20 sm4 lg3 class="py-2">
+
+            
+          </v-layout>
+        </v-flex>
+
+            <v-flex xs12 md20 sm4 lg2 class="py-2">
               <v-flex xs20 md30 lg16>
                 <v-toolbar flat color="white" class="pa-0 mx-0" style="padding:0 !important">
                   <v-toolbar-title
@@ -45,8 +39,7 @@
                 </v-toolbar>
               </v-flex>
             </v-flex>
-          </v-layout>
-        </v-flex>
+
       </v-layout>
 
     </v-container>

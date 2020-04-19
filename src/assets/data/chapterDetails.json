@@ -5,9 +5,9 @@
     "ChapterHashTags": [
         "Azure Active Directory",
         "Identity Management",
+        "Identity Governance",
         "Access Management",
         "Provisioning"
-
     ],
     "socialLinks": [{
             "name": "Github",
@@ -23,6 +23,11 @@
             "name": "Stack Overflow",
             "link": "https://stackoverflow.com/users/11400300/alejandro-azofeifa",
             "icon": "fab fa-stack-overflow"
+        },
+        {
+            "name": "AzureAD Ninja",
+            "link": "https://www.youtube.com/channel/UCUqUkVuPrrZcotheCLBjtuA",
+            "icon": "fab fa-youtube"
         }
     ],
     "ReferenceLinks": [{

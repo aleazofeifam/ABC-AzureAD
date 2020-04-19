@@ -20,7 +20,7 @@
                 
                 <br><br>
                 
-               <router-link to="/Topics" class="google-font" style="text-decoration:none;color:Navy;font-size:180%">Check every topic </router-link>
+               <router-link to="/Topics" class="google-font" style="text-decoration:none;color:Navy;font-size:180%">Go to  topics</router-link>
 
             </v-flex> 
             <v-flex xs12 md9 lg9 class="">
