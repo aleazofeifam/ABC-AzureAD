@@ -7,11 +7,11 @@
 
     <v-layout wrap align-center justify-center row fill-height class="mt-0 mb-0">
       <v-flex xs12 md12 lg12 class="pa-2 mb-0">
-        <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Upcoming Events</p>
+        <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Architecture</p>
         <p
           class="google-font mt-0 mb-0"
           style="font-size:120%"
-        >Our events are open to newbies, developers, managers, and organizations who are interested in Google's technologies or use them as part of their projects.</p>
+        >Getting started </p>
       </v-flex>
     </v-layout>
 
@@ -22,7 +22,7 @@
       row
       fill-height
       class="hidden-sm-and-down my-3"
-      :style="{'background-image':'url('+require('@/assets/img/svg/bg.svg')+')'}"
+      :style="{'background-image':'url('+require('@/assets/img/mainpages/Topics.svg')+')'}"
       style="background-position:right"
     >
       <v-flex xs12 sm6 md4 lg4 v-for="n in 3" :key="`4${n}`">
@@ -33,28 +33,7 @@
           style="border-radius:7px;"
         >
           <v-card-title class="mb-0">
-            <div>
-              <p
-                class="google-font mb-2 animate-shimmer"
-                style="color:#424242;width:200px;height:20px;"
-              ></p>
-              <p
-                class="google-font mt-2 mb-1 animate-shimmer"
-                style="color:#424242;width:150%;height:80px;"
-              ></p>
-              <p
-                class="google-font mt-1 mb-0 animate-shimmer"
-                style="color:#424242;width:100px;height:20px;"
-              ></p>
-              <p
-                class="google-font mt-1 mb-0 animate-shimmer"
-                style="color:#424242;width:100px;height:20px;"
-              ></p>
-              <p
-                class="google-font mt-1 mb-0 animate-shimmer"
-                style="color:#424242;width:100px;height:20px;"
-              ></p>
-            </div>
+
           </v-card-title>
 
           <v-card-actions class="mt-0">
@@ -301,5 +280,3 @@ export default {
   }
 }
 </style>
-
-

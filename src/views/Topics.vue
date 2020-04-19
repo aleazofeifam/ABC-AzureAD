@@ -9,18 +9,42 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid class="grey lighten-5">
+    <v-container fluid class="grey lighten-4">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
-          <upcommingEvents/>
+          <Architecture/>
         </v-flex>
       </v-layout>
     </v-container>
 
-    <v-container fluid class="" >
+    <v-container fluid class="grey lighten-3" >
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
-          <pastEvents/>
+          <IdentityManagement/>
+        </v-flex>
+      </v-layout>
+    </v-container>
+
+    <v-container fluid class="grey lighten-2" >
+      <v-layout wrap align-center justify-center row fill-height>
+        <v-flex xs12 md10 class="">
+          <AccessManagement/>
+        </v-flex>
+      </v-layout>
+    </v-container>
+
+        <v-container fluid class="grey lighten-1" >
+      <v-layout wrap align-center justify-center row fill-height>
+        <v-flex xs12 md10 class="">
+          <Provisioning/>
+        </v-flex>
+      </v-layout>
+    </v-container>
+
+        <v-container fluid class="grey lighten-2" >
+      <v-layout wrap align-center justify-center row fill-height>
+        <v-flex xs12 md10 class="">
+          <IdentityGovernance/>
         </v-flex>
       </v-layout>
     </v-container>
@@ -31,12 +55,19 @@
 
 <script>
 import ChapterDetails from '@/assets/data/chapterDetails.json'
-import upcommingEvents from '@/components/events/upcomingEvents'
-import pastEvents from '@/components/events/pastEvents'
+import Architecture from '@/components/Topics/architecture'
+import IdentityManagement from '@/components/Topics/idm'
+import AccessManagement from '@/components/Topics/accessm'
+import Provisioning from '@/components/Topics/provisioning'
+import IdentityGovernance from '@/components/Topics/IdGovernance'
+
   export default {
     components: {
-      upcommingEvents,
-      pastEvents
+      Architecture,
+      IdentityManagement,
+      AccessManagement,
+      Provisioning,
+      IdentityGovernance
     },
     data() {
       return {
