@@ -1,0 +1,30 @@
+[{
+        "TechName": "AAD Connect",
+        "Information": "Learn more",
+        "Troubleshoot": "Fix your the problem by yourself",
+        "image": "AADConnect.svg",
+        "link": "https://angularasas.io/"
+    },
+    {
+        "TechName": "AAD Connect Health",
+        "image": "GroupManagement.svg",
+        "Information": "Learn more",
+        "Troubleshoot": "Fix your the problem by yourself",
+        "link": "https://developers.google.com/actions/"
+    },
+    {
+        "TechName": "Automated Provisioning",
+        "image": "IdGovernance.svg",
+        "Information": "Learn more",
+        "Troubleshoot": "Fix your the problem by yourself",
+        "link": "https://www.tensorflow.org/"
+    },
+    {
+        "TechName": "B2B",
+        "image": "AADDomainServices.svg",
+        "Information": "Learn more",
+        "Troubleshoot": "Fix your the problem by yourself",
+        "link": "https://www.tensorflow.org/"
+    }
+
+]

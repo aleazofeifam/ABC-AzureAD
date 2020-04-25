@@ -54,6 +54,16 @@ export default new Router({
             name: 'Users',
             component: () =>
                 import ('./views/Post.vue')
+        },
+        {
+
+            path: '/Provisioning/AADConnect',
+            name: 'AADConnect',
+            component: () =>
+                import ('./components/TopicList/Provisioning/AAD Connect.vue')
+
         }
+
+
     ]
 })
