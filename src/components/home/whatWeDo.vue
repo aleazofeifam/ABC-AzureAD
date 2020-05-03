@@ -27,32 +27,32 @@
                 <v-layout row wrap>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
-                        <i large style="font-size:300%" class="fas fa-terminal"></i>
+                        <i large style="font-size:300%" class="fas fa-user-times"></i>
                         <p> </p>
-                        <p class="google-font" style="font-size:130%">Azure CLI</p>
+                        <p class="google-font" style="font-size:130%">Access Management</p>
                         <p class="google-font" style="font-size:110%">Learn how to use it to interact with your resources directly from your command line</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                    
-                        <i large style="font-size:300%" class="fas fa-code-branch"></i>
+                        <i large style="font-size:300%" class="fas fa-users-cog"></i>
                         <p> </p>
-                        <p class="google-font" style="font-size:130%">APIs</p>
+                        <p class="google-font" style="font-size:130%">Identity Management</p>
                         <p class="google-font" style="font-size:110%">Microsoft have multiple APIs we will learn how to perform multiple operations that can't be done from the Portal </p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
-                        <i style="font-size:300%" class="fas fa-laptop-code"></i>
+                        <i style="font-size:300%" class="fas fa-user-shield"></i>
                         <p> </p>
-                        <p class="google-font" style="font-size:130%">PortalUX</p>
+                        <p class="google-font" style="font-size:130%">Identity Governance</p>
                         <p class="google-font" style="font-size:110%">Take the most out of the Portal, learn some tips and tricks</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
-                        <i style="font-size:300%" class="fas fa-graduation-cap"></i>
+                        <i style="font-size:300%" class="fas fa-terminal"></i>
                          <p> </p>
-                        <p class="google-font" style="font-size:130%">Learning Material</p>
-                        <p class="google-font" style="font-size:110%">The cloud business is constantly growing, you will learn how to be always updated </p>
+                        <p class="google-font" style="font-size:130%">Maximize tools</p>
+                        <p class="google-font" style="font-size:110%">Learn how to use the Azure CLI, APIs, and learn tricks from the portal</p>
                     </v-flex>
 
                 </v-layout>
