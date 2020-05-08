@@ -16,7 +16,7 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid class="grey lighten-3">
+    <v-container fluid class="grey lighten-4">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class>
           <IdentityManagement />
@@ -24,7 +24,7 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid class="grey lighten-2">
+    <v-container fluid class="grey lighten-4">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class>
           <AccessManagement />
@@ -32,7 +32,7 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid class="grey lighten-1">
+    <v-container fluid class="grey lighten-4">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class>
           <Provisioning />
@@ -40,13 +40,17 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid class="grey lighten-2">
+    <v-container fluid class="grey lighten-4">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class>
           <IdentityGovernance />
         </v-flex>
       </v-layout>
     </v-container>
+
+
+
+
   </v-content>
 </template>
 

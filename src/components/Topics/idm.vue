@@ -2,7 +2,7 @@
   <v-container class="pa-0 mb-3">
     <v-layout wrap align-center justify-center row fill-height class="mt-0 mb-0">
       <v-flex xs12 md12 lg12 class="pa-2 mb-0">
-        <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Provisioning</p>
+        <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Identity Management</p>
         <p class="google-font mt-0 mb-0" style="font-size:110%;color:#616161 ">Activity to synchronize the identities from a source to a target system </p>
 
       </v-flex>
@@ -28,7 +28,7 @@ export default {
     items: [
       {
         id: 1,
-        name: "AAD Connect",
+        name: "Application Management",
         children: [
           {
             id: 2,
