@@ -1,7 +1,7 @@
 {
     "ChapterName": "ABC AzureAD",
-    "ChapterShortDescription": "The purpose of this website is to show you how you can take advantage of Azure AD, our commitment is to help you help yourself by learning new information and teach you how to apply it to your business.",
-    "ChapterLongDec": "The purpose of this website is to show you how you can take advantage of Azure AD, our commitment is to help you help yourself by learning new information and teach you how to apply it to your business.",
+    "ChapterShortDescription": "Our purpose is to show you how you can take advantage of the multiple features of Azure AD, our commitment is to help you help yourself by teaching you new information and how to apply it to your business.",
+    "ChapterLongDec": "Our purpose is to show you how you can take advantage of the multiple features of Azure AD, our commitment is to help you help yourself by teaching you new information and how to apply it to your business",
     "ChapterHashTags": [
         "Azure Active Directory",
         "Identity Management",
@@ -13,11 +13,6 @@
             "name": "Github",
             "link": "https://github.com/aleazofeifam",
             "icon": "fab fa-github"
-        },
-        {
-            "name": "LinkedIn",
-            "link": "https://www.linkedin.com/in/alejandro-azofeifa-419326124/",
-            "icon": "fab fa-linkedin-in"
         },
         {
             "name": "Stack Overflow",

@@ -51,8 +51,8 @@
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <i style="font-size:300%" class="fas fa-terminal"></i>
                          <p> </p>
-                        <p class="google-font" style="font-size:130%">Maximize tools</p>
-                        <p class="google-font" style="font-size:110%">Learn how to use the Azure CLI, the different APIs and learn tricks from the UX</p>
+                        <p class="google-font" style="font-size:130%">Tools</p>
+                        <p class="google-font" style="font-size:110%">TODO Need to do update</p>
                     </v-flex>
 
                 </v-layout>
