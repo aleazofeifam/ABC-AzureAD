@@ -35,7 +35,7 @@ export default new Router({
             path: '/Troubleshoot',
             name: 'Troubleshoot',
             component: () =>
-                import ('./views/Team.vue')
+                import ('./views/Troubleshooting.vue')
         },
         {
             path: '/Topics',

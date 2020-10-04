@@ -37,7 +37,7 @@ export default {
           },
           { id: 3, 
             name: "Fix a problem", 
-            to: "/Provisioning/AADConnectTroubleshooting" 
+            to: "/Provisioning/AADConnect/Troubleshooting" 
           },
           { 
             id: 4, 
