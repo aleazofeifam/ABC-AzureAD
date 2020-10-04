@@ -1,12 +1,30 @@
 <template>
     <v-container class="pa-0 my-0">
         <v-layout wrap align-start justify-start row fill-height class="my-0" >
-            <v-flex xs12 sm5 md4 lg4 class="pa-2">
+     
+            <v-flex xs12 md8 lg8 class="pa-2 my-0">
+                <p class="google-font" style="font-size:180%;color:#0277bd">FAQ</p>
+
+                <v-expansion-panel >
+                    <v-expansion-panel-content
+                    v-for="(item,i) in aboutPage.listofFAQ"
+                    :key="i"
+                    >
+                        <div slot="header" class="google-font" style="font-size:120%">{{item.name}}</div>
+                        <v-card>
+                            <v-card-text class="google-font grey lighten-3" style="font-size:110%">{{item.des}}</v-card-text>
+                        </v-card>
+                    </v-expansion-panel-content>
+                </v-expansion-panel>
+            </v-flex> 
+           
+            <v-flex xs12 md4 lg4 class="pa-2 hidden-sm-and-down">
                 <v-img
                     :src="require('@/assets/img/mainpages/logo2.png')"
                     :lazy-src="require('@/assets/img/mainpages/logo2.png')"
-                    class=""
-                    width="100%">
+                    width="70%"
+                    style="float:right"
+                    >
                     <v-layout
                         slot="placeholder"
                         fill-height
@@ -18,12 +36,6 @@
                     </v-layout>
                 </v-img>
             </v-flex>
-            <v-flex xs12 sm7 md8 lg8 class="pa-2 my-0">
-
-
-            
-            </v-flex> 
-           
         </v-layout>
 
     </v-container>
@@ -31,10 +43,12 @@
 
 <script>
 import ChapterDetails from '@/assets/data/chapterDetails.json'
+import aboutPage from '@/assets/data/aboutPage.json'
 export default {
     data() {
         return {
-            chapterDetails: ChapterDetails
+            chapterDetails: ChapterDetails,
+            aboutPage:aboutPage
         }
     },
 }

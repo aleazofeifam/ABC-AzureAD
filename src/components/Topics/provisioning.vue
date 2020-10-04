@@ -33,10 +33,16 @@ export default {
           {
             id: 2,
             name: "Learn more",
-            to: "/Provisioning/AADConnect"
+            to: "/Provisioning/AADConnect/LearnMore"
           },
-          { id: 3, name: "Fix a problem", to: "About" },
-          { id: 4, name: "Manage the service" }
+          { id: 3, 
+            name: "Fix a problem", 
+            to: "/Provisioning/AADConnectTroubleshooting" 
+          },
+          { 
+            id: 4, 
+            name: "Manage the service",
+            to: "/Provisioning/AADConnect/Management" }
         ]
       },
       {

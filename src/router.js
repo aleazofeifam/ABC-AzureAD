@@ -50,18 +50,30 @@ export default new Router({
                 import ('./views/Contact.vue')
         },
         {
-            path: '/Users',
-            name: 'Users',
+            path: '/Provisioning/AADConnect/LearnMore',
+            name: 'AAD Connect',
             component: () =>
-                import ('./views/Post.vue')
+                import ('./components/TopicList/Provisioning/AADConnect/LearnMore.vue')
         },
         {
-
-            path: '/Provisioning/AADConnect',
-            name: 'AADConnect',
+            path: '/Provisioning/AADConnect/Troubleshooting',
+            name: 'AAD Connect Troubleshooting',
             component: () =>
-                import ('./components/TopicList/Provisioning/AAD Connect.vue')
+                import ('./components/TopicList/Provisioning/AADConnect/Troubleshooting.vue')
+        },
+        {
+            path: '/Provisioning/AADConnect/Management',
+            name: 'AAD Connect For IT Admins',
+            component: () =>
+                import ('./components/TopicList/Provisioning/AADConnect/ForITAdmins.vue')
+        },
 
+
+        {
+            path: '/Provisioning/SyncFabric/LearnMore',
+            name: 'Sync Fabric',
+            component: () =>
+                import ('./components/TopicList/Provisioning/SyncFabric/LearnMore.vue')
         }
 
 
