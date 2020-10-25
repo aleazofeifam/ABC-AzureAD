@@ -1,7 +1,7 @@
 {
     "listofFAQ": [{
             "name": "Who are you?",
-            "des": "My name is Alejandro Azofeifa, I have been bringing solutions to customers when they have required help with Azure Active Directory technologies for the past 3 years. (Updated in 2020)"
+            "des": "My name is Alejandro Azofeifa, I have been bringing solutions to customers when they have required help with Azure Active Directory for the past 3 years. (Updated in 2020)"
         },
         {
             "name": "Can I participate and contribute in the project?",
@@ -9,7 +9,7 @@
         },
         {
             "name": "Are you open of Feedback?",
-            "des": "Of course! If you believe something should be better explained, there is a 'typo' or you have any other kind of feedback please all means let me know."
+            "des": "Of course! If you believe something should be better explained, there is a 'typo' or you have any other kind of feedback please let me know."
         },
 
         {
