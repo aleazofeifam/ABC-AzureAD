@@ -44,6 +44,12 @@ export default new Router({
                 import ('./views/Topics.vue')
         },
         {
+            path: '/Implement',
+            name: 'Implement',
+            component: () =>
+                import ('./views/Implement.vue')
+        },
+        {
             path: '/contact',
             name: 'contact',
             component: () =>

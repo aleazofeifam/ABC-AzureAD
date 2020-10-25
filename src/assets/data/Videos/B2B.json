@@ -1,0 +1,46 @@
+[{
+        "name": " Manually invite using the Azure Portal",
+        "designation": " Video + Microsoft Doc",
+        "youtube": "https://twitter.com/",
+        "microsoft": "https://www.linkedin.com/",
+        "github": "",
+        "profileImage": "",
+        "website": ""
+    },
+    {
+        "name": "Manually invite using the MSGraph API",
+        "designation": "Video + Microsoft Doc",
+        "youtube": "https://twitter.com/",
+        "microsoft": "https://www.linkedin.com/",
+        "github": "",
+        "profileImage": "",
+        "website": ""
+    },
+    {
+        "name": "Bulk invite using the MSGraph API",
+        "designation": "Video + Github Source code",
+        "youtube": "https://twitter.com/",
+        "microsoft": "",
+        "github": "https://github.com/",
+        "profileImage": "",
+        "website": ""
+    },
+    {
+        "name": "Name",
+        "designation": "Development",
+        "youtube": "https://twitter.com/",
+        "microsoft": "https://www.linkedin.com/",
+        "github": "https://github.com/",
+        "profileImage": "",
+        "website": ""
+    },
+    {
+        "name": "Name",
+        "designation": "Development",
+        "youtube": "https://twitter.com/",
+        "microsoft": "https://www.linkedin.com/",
+        "github": "https://github.com/",
+        "profileImage": "",
+        "website": ""
+    }
+]

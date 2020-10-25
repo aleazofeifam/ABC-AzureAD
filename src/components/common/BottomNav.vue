@@ -22,12 +22,23 @@
       <v-btn
         color="#518FF5"
         flat
-        value="Topics"
+        value="Learn"
         router
         to="/Topics"
       >
         <span>Topics</span>
         <v-icon>toc</v-icon>
+      </v-btn>
+
+      <v-btn
+        color="#518FF5"
+        flat
+        value="Implement"
+        router
+        to="/Implement"
+      >
+        <span>Implement</span>
+        <v-icon>check</v-icon>
       </v-btn>
 
       <v-btn

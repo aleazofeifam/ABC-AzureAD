@@ -1,0 +1,37 @@
+[{
+        "name": "Manually create a user from the Azure Portal",
+        "designation": " Video + Microsoft Doc",
+        "youtube": "https://twitter.com/",
+        "microsoft": "https://www.linkedin.com/",
+        "github": "",
+        "profileImage": "",
+        "website": ""
+    },
+    {
+        "name": "Manually create a user from the MSGraph API",
+        "designation": "Video + Microsoft Doc",
+        "youtube": "https://twitter.com/",
+        "microsoft": "https://www.linkedin.com/",
+        "github": "",
+        "profileImage": "",
+        "website": ""
+    },
+    {
+        "name": "Bulk creation of  users using the Azure Portal",
+        "designation": "Video + Microsoft Doc",
+        "youtube": "https://twitter.com/",
+        "microsoft": "",
+        "github": "https://github.com/",
+        "profileImage": "",
+        "website": ""
+    },
+    {
+        "name": "Bulk creation of  users using the MSGraph API",
+        "designation": "Video + Microsoft Doc + Github Repo",
+        "youtube": "https://twitter.com/",
+        "microsoft": "https://twitter.com/",
+        "github": "https://github.com/",
+        "profileImage": "",
+        "website": ""
+    }
+]

@@ -1,0 +1,31 @@
+[{
+        "name": "Create a user",
+        "designation": "PortalUX",
+        "youtube": "https://www.youtube.com/watch?v=FHDj6AtkDpE&ab_channel=AzureADNinja",
+        "microsoftdoc": "https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-users-azure-active-directory",
+        "github": "",
+        "postman": "",
+        "profileImage": "",
+        "website": ""
+    },
+    {
+        "name": "Create a user",
+        "designation": "PortalUX",
+        "youtube": "https://www.youtube.com/watch?v=FHDj6AtkDpE&ab_channel=AzureADNinja",
+        "microsoftdoc": "https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-users-azure-active-directory",
+        "github": "https://github.com/aleazofeifam",
+        "postman": "https://github.com/aleazofeifam",
+        "profileImage": "",
+        "website": ""
+    },
+    {
+        "name": "Create a user",
+        "designation": "PortalUX",
+        "youtube": "https://www.youtube.com/watch?v=FHDj6AtkDpE&ab_channel=AzureADNinja",
+        "microsoftdoc": "https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-users-azure-active-directory",
+        "github": "https://github.com/Vrijraj",
+        "postman": "",
+        "profileImage": "",
+        "website": ""
+    }
+]
